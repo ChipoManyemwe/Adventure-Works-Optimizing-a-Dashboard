@@ -4,7 +4,7 @@ A Power BI dashboard optimized for performance and clarity, showcasing product, 
 🖼️ Preview
 
 ![Product Page](Adventure_Works_Optimizing_a_Dashboard1.png)
-![Categories Page](Adventure_Works_Optimizing_a_Dashboard2.png)
+![Categories Page](Adventure_Works_Optmizing_a_Dashboard2.png)
 
 🔍 Project Overview
 
